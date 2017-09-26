@@ -1,0 +1,12 @@
+body {
+  font-family: "Times New Roman", Georgia, serif;
+  background-image:url(/508374604.jpg);
+}
+
+.home {
+  img.resize {
+    max-width:20%;
+    max-height:20%;
+    }
+  text-align: center;
+}
