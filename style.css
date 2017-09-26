@@ -13,9 +13,11 @@ p {
   padding:0px;
 }
 
-img.home {
-  resize:both:20%;
+img {
+  max-width:20%;
+  max-height:20%;
 }
+
 h1.home {
   text-align:center;
 }
