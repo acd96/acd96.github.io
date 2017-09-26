@@ -1,7 +1,7 @@
 body {
   font-family: "Times New Roman", Georgia, serif;
   background-image:url(/508374604.jpg);
-  background-size:100%;
+  background-repeat:no-repeat;
 }
 
 .home {
@@ -9,7 +9,7 @@ body {
     max-width:20%;
     max-height:20%;
     }
-  text-align: center;
+  text-align:center;
 }
 
 .main {
