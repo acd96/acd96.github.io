@@ -1,7 +1,7 @@
 body {
   font-family: "Times New Roman", Georgia, serif;
-  background-image:url(/508374604.jpg);
-  background-size:100%;
+  background-image:url(background.jpg);
+  background-size:200%;
   padding-top:5px;
   padding-bottom:5px;
 }
@@ -20,11 +20,39 @@ img {
   max-height:20%;
 }
 
-h1.home {
+.home {
   text-align:center;
 }
 
-.main {
-  color:black;
-  text-decoration:none;
+h1.bio {
+  text-align: center;
+}
+h2.bio {
+  text-align: center;
+}
+h3.bio {
+  margin-right: 200px;
+  margin-left: 200px;
+}
+p.bio {
+  margin-right: 200px;
+  margin-left: 200px;
+}
+h1.res {
+  text-align: center;
+}
+h2.res {
+  text-align: center;
+}
+h4.res {
+  text-align: center;
+}
+div.res {
+  width: 70%;
+  height: 1150px;
+  margin: auto;
+}
+
+.LI-profile-badge {
+  text-align: center;
 }
